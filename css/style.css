@@ -10660,8 +10660,8 @@ color: #fff;
   color: #1e1e1e;
   margin-bottom: 20px;
   position: relative;
-  <--font-weight: 400;
-  font-family: franklin;
+  /*font-weight: 400;*/
+  /*font-family: franklin;*/
 }
 .promo-title2 {
   text-align: center;
@@ -10699,7 +10699,7 @@ color: #fff;
 }
 .promo-description {
   text-align: center;
-  font-size: 1.25em;
+  font-size: 1.55em;
   color: #1e1e1e;
   max-width: 80%;
   margin: 0 auto;
@@ -10790,7 +10790,7 @@ color: #fff;
   color: #1e1e1e;
 }
 .box-description2 {
-  font-size: 1em;
+  font-size: 1.1em;
   font-weight: 300;
   line-height: 1.5;
   color: #fff;
