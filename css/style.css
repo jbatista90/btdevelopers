@@ -10670,9 +10670,8 @@ color: #fff;
   color: #1e1e1e;
   margin-bottom: 20px;
   position: relative;
-  <--font-weight: 400;
-  font-family: franklin;
-}
+  /*font-weight: 400;*/
+  /*font-family: franklin;*/}
 .promo-title3 {
   text-align: center;
   font-size: 3.25em;
@@ -10733,7 +10732,7 @@ color: #fff;
   font-size: 1.5625em;
   color: #1e1e1e;
   font-weight: 600;
-  font-family: franklin;
+  /*font-family: franklin;*/
 }
 .box-small-icon-alt .box-icon {
   position: absolute;
@@ -10785,7 +10784,7 @@ color: #fff;
   font-size: 1.5625em;
 }
 .box-description {
-  font-size: 1em;
+  font-size: 1.1em;
   font-weight: 300;
   line-height: 1.5;
   color: #1e1e1e;
@@ -13195,7 +13194,7 @@ li:last-child .ytv-list a {
 }
 @font-face{
   font-family: franklin;
-  src: url(../fonts/FRABK.ttf);
+  src: url(../fonts/franklin.ttf) format('truetype');
 }
 @font-face {
     font-family: calibri;
