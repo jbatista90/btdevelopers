@@ -7605,8 +7605,9 @@ Copyright (c) 2015 Daniel Eden
 .logo-image img {
   display: block;
   max-width: 100%;
-  height: 50px;
+  height: 35px;
   width: auto;
+  margin-top: 5px;
 }
 .logo-image2 img {
   display: block;
@@ -11025,11 +11026,12 @@ li.browser-partial:hover .browser-icon:after {
 }
 .header-browser {
   max-width: 40%;
-  margin: 110px auto -200px;
-  -webkit-box-shadow: 0px 0px 9px 1px rgba(0, 0, 0, 0.13);
-  box-shadow: 0px 0px 9px 1px rgba(0, 0, 0, 0.13);
+  margin: 50px auto -150px;
+  /*-webkit-box-shadow: 0px 0px 9px 1px rgba(0, 0, 0, 0.13);
+  box-shadow: 0px 0px 9px 1px rgba(0, 0, 0, 0.13);*/
   border-radius: 3px;
   overflow-y: hidden;
+  
 }
 .header-browser-header {
   background-color: #e8e8e8;
@@ -16198,11 +16200,11 @@ input.changelog-input {
   max-width: 100%;
 }
 .call-to-action {
-  padding: 80px 0;
-  background-size: cover;
-  background-image: url('../img/backgrounds/17.png');
-  text-align: center;
-  background-position-y: -90px;
+     padding: 80px 0;
+    /* background-size: cover; */
+    background-image: url('../img/backgrounds/17.png');
+    text-align: center;
+    background-position-y: -100px;
 }
 }
 .call-to-action-title {
